@@ -1,0 +1,32 @@
+h3 { 
+    color: rgb(255, 255, 255); 
+    font-family: 'Helvetica Neue', sans-serif; 
+    text-align: center;
+    font-size: 30px;
+  }
+  .img{
+    margin-top: 25px;
+    height: 400px;
+    width: auto;
+  }
+  .alergy_less7{
+    width: auto;
+    color: rgb(255, 255, 255);
+    font-family: 'Helvetica Neue', sans-serif;
+    margin: 40px 200px;
+  }
+  .topic_section{
+    text-align: center;
+    font-size: 35px;
+  }
+  p {
+    text-indent: 1.7rem;
+    margin-bottom: -7px;
+  }
+  .darker{
+    color:rgb(59, 58, 58);
+    font-weight: 700;
+  }
+  .tovs{
+    font-weight: 700;
+  }

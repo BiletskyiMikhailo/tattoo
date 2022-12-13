@@ -1,0 +1,33 @@
+h3 { 
+    color: rgb(255, 255, 255); 
+    font-family: 'Helvetica Neue', sans-serif; 
+    text-align: center;
+    font-size: 30px;
+  }
+  .scars_less8{
+    width: auto;
+    color: rgb(255, 255, 255);
+    font-family: 'Helvetica Neue', sans-serif;
+    margin: 40px 200px;
+  }
+  .dot {
+    font-size: 26px;
+    margin-top: 10px;
+  }
+  p {
+    text-indent: 1.7rem;
+    margin-bottom: -7px;
+  }
+  .topic_section{
+    text-align: center;
+    font-size: 35px;
+  }
+  .darker{
+    color:rgb(59, 58, 58);
+    font-weight: 700;
+  }
+  .rubtsi{
+    height: 500px;
+    width: auto;
+    margin: 3em 0em 1em 16.5em;
+  }

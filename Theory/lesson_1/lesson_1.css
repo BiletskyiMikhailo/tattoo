@@ -1,0 +1,59 @@
+
+.skin {
+  width: auto;
+  color: rgb(255, 255, 255);
+  font-family: 'Helvetica Neue', sans-serif;
+  margin: 40px 200px;
+
+}
+
+.lesson_name {
+  color: rgb(255, 255, 255);
+  font-family: 'Helvetica Neue', sans-serif;
+  text-align: center;
+  font-size: 30px;
+
+}
+
+.skin_container {
+  height: auto;
+  width: auto;
+
+}
+
+.image_skin {
+
+  height: 700px;
+  width: auto;
+  margin: -25.8em 0em 0em 22.3em;
+
+
+}
+
+.skin_structure {
+  height: 700px;
+  width: auto;
+  margin: 0em 0em 0em 6.5em;
+
+}
+p {
+  text-indent: 1.7rem;
+  margin-bottom: -7px;
+}
+
+/* @media(min-width: 24rem){
+  .cards_item{
+    width: 50%;
+  }
+}
+@media (min-width: 40rem) {
+  .cards_item {
+    width: 50%;
+  }
+}
+
+@media (min-width: 56rem) {
+  .cards_item {
+    width: 33.3333%;
+  }
+} */

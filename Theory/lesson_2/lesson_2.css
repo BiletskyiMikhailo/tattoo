@@ -1,0 +1,45 @@
+.lesson_name {
+  color: rgb(255, 255, 255);
+  font-family: 'Helvetica Neue', sans-serif;
+  text-align: center;
+  font-size: 30px;
+
+}
+
+.paint_less2 {
+  width: auto;
+  color: rgb(255, 255, 255);
+  font-family: 'Helvetica Neue', sans-serif;
+  margin: 40px 200px;
+
+}
+
+.dot {
+  font-size: 25px;
+  margin-top: 10px;
+}
+
+p {
+  text-indent: 1.7rem;
+  margin-bottom: -7px;
+}
+
+.topic_section {
+  text-align: center;
+}
+
+.black {
+  color: black;
+}
+
+.red {
+  color: brown;
+}
+
+.yellow {
+  color: yellow
+}
+
+.violet {
+  color: purple
+}

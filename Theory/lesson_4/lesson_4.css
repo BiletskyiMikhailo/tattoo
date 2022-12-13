@@ -1,0 +1,35 @@
+
+h3 { 
+    color: rgb(255, 255, 255); 
+    font-family: 'Helvetica Neue', sans-serif; 
+    text-align: center;
+    font-size: 30px;
+  }
+  .cartridge_less4{
+    width: auto;
+    color: rgb(255, 255, 255);
+    font-family: 'Helvetica Neue', sans-serif;
+    margin: 40px 200px;
+  }
+  .dot {
+    font-size: 25px;
+    margin-top: 10px;
+  }
+  .topic_section{
+    text-align: center;
+    font-size: 35px;
+  }
+  p {
+    text-indent: 1.7rem;
+    margin-bottom: -7px;
+  }
+  .darker{
+    color:rgb(59, 58, 58);
+    font-weight: 700;
+  }
+  .tovs{
+    font-weight: 700;
+  }
+  .img{
+    margin-top: 25px;
+  }
